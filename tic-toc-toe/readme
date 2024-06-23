@@ -1,0 +1,25 @@
+Overview
+This project is a web-based Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to play against each other on the same device. The design is simple and clean, ensuring a user-friendly experience.
+
+Features
+Interactive Gameplay: Players can click on the grid to place their marks (X or O).
+Winning Logic: Determines the winner or a draw and displays the result.
+Restart Game: Option to restart the game after it ends.
+Responsive Design: Adapts to various screen sizes and devices.
+Technologies Used
+HTML5: For the structure of the web page.
+CSS3: For styling and layout.
+JavaScript: For game logic and interactivity.
+HTML
+The index.html file contains the structure of the web page, including the game board and control buttons.
+CSS
+The styles.css file includes the following:
+
+Base Styles: Basic styling for body, headings, buttons, etc.
+Layout: Flexbox for centering the game board and elements.
+Responsive Design: Media queries to adjust the layout for different screen sizes.
+JavaScript
+The script.js file includes:
+
+Game Logic: JavaScript functions to handle the game state, player turns, and winning conditions.
+Event Listeners: JavaScript to manage clicks on the game board and restart button.
