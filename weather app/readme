@@ -1,0 +1,27 @@
+Overview
+This project is a web-based weather application that allows users to get current weather information for any city. The application is built using HTML, CSS, and JavaScript, and it uses a weather API to fetch the data.
+
+Features
+Search Functionality: Users can search for current weather information by city name.
+Weather Details: Displays temperature, weather conditions, humidity, and wind speed.
+Responsive Design: Adapts to various screen sizes and devices.
+Dynamic Background: Changes background based on weather conditions (optional).
+Technologies Used
+HTML5: For the structure of the web page.
+CSS3: For styling and layout.
+JavaScript: For fetching data from the weather API and updating the DOM.
+Weather API: To fetch current weather data.
+HTML
+The index.html file contains the structure of the web page, including the search form and weather display area.
+CSS
+The styles.css file includes the following:
+
+Base Styles: Basic styling for body, headings, buttons, etc.
+Layout: Flexbox for centering the content and elements.
+Responsive Design: Media queries to adjust the layout for different screen sizes.
+JavaScript
+The script.js file includes:
+
+Fetch Weather Data: JavaScript to fetch weather data from the API.
+Update DOM: JavaScript to update the DOM elements with the fetched weather data.
+Event Listener: JavaScript to handle the form submission and fetch data based on the input city.
